@@ -1,10 +1,11 @@
 ## Lorraine Phillips
 
-I am a hardworking software developer with a background in project management. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I am a hardworking software developer with a background in project management. I have been managing tech projects in both
+startups and established businesses over the last few years and in the last year I have dedicated time to learning how to code so I can contribute to the actual software development required for projects in the future. I would love to work in a role where I could use and develop my new software development skills as well as my project management ones.
 
 ## Skills
 
-#### This Skill
+#### Communication
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -12,7 +13,16 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Achievements
 - Evidence
 
-#### Another Skill
+#### Project Management
+
+Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+
+- I achieved A during my work at B (job, or otherwise)
+- I contributed to the growth of X while doing Y (job, or otherwise)
+- I built this, made this, broke this, fixed this, etc.
+- A link to some on-line evidence (blogs, videos, articles, etc.)
+
+#### Software Development
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -25,19 +35,19 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Makers Academy (March 2018 - June 2018)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+- Curious and passionate about code. I've spent the majority of the last year, learning the basics of code and I am committed to learninf more.
+- Fast, independent learner - I've been learning Ruby on my own for the last couple of months and I am now able to create Ruby projects from scratch.
+- Great collaborator - I've paired successfully on a number of projects with other members of my cohort.
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
+
 #### Queen Mary University (2007 to 2010)
 
-- BSc Economics
-- 2:1
+- BSc Economics - 2:1
 
 #### Any other qualifications
 
@@ -47,6 +57,14 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 ## Experience
 
 **Geniac(Grant Thornton)** (April 2016 - April 2017)    
-*Account Management Lead*  
+*Onboarding Manager/Head of Account Management*  
 **Innovate Finance** (January 2016 - March 2016)   
+*Project Manager*  
+**Carewatch Care Services Ltd** (July 2015 - December 2015)   
+*Project Manager*  
+**Cheer Trust** (January 2015 - June 2015)   
+*Project Manager*  
+**CRU Kafe** (April 2014 - December 2014)   
+*Project Manager*  
+**Saph Ltd** (July 2007 - March 2014)   
 *Project Manager*  
