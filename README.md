@@ -1,6 +1,6 @@
-## Your Name
+## Lorraine Phillips
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I am a hardworking software developer with a background in project management. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
 ## Skills
 
@@ -23,7 +23,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (March 2018 - June 2018)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -34,17 +34,19 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Queen Mary University (2007 to 2010)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- BSc Economics
+- 2:1
 
 #### Any other qualifications
 
+- Maths A-Level - Grade A
+- PRINCE 2 Practitioner | PeopleCert | 2015
+
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Geniac(Grant Thornton)** (April 2016 - April 2017)    
+*Account Management Lead*  
+**Innovate Finance** (January 2016 - March 2016)   
+*Project Manager*  
