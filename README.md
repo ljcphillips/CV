@@ -34,10 +34,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Makers Academy (March 2018 - June 2018)
 
-- Curious and passionate about code. I've spent the majority of the last year, learning the basics of code and I am committed to learninf more.
-- Fast, independent learner - I've been learning Ruby on my own for the last couple of months and I am now able to create Ruby projects from scratch.
-- Great collaborator - I've paired successfully on a number of projects with other members of my cohort.
-
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
@@ -55,15 +51,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Experience
 
-**Geniac(Grant Thornton)** (April 2016 - April 2017)    
-*Onboarding Manager/Head of Account Management*  
+**Geniac(Grant Thornton)** (April 2016 - April 2017)     
 **Innovate Finance** (January 2016 - March 2016)   
-*Project Manager*  
 **Carewatch Care Services Ltd** (July 2015 - December 2015)   
-*Project Manager*  
-**Cheer Trust** (January 2015 - June 2015)   
-*Project Manager*  
-**CRU Kafe** (April 2014 - December 2014)   
-*Project Manager*  
+**Cheer Trust** (January 2015 - June 2015)    
+**CRU Kafe** (April 2014 - December 2014)    
 **Saph Ltd** (July 2007 - March 2014)   
-*Project Manager*  
