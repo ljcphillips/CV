@@ -1,7 +1,6 @@
 ## Lorraine Phillips
 
-I am a hardworking software developer with a background in project management. I have been managing tech projects in both
-startups and established businesses over the last few years and in the last year I have dedicated time to learning how to code so I can contribute to the actual software development required for projects in the future. I would love to work in a role where I could use and develop my new software development skills as well as my project management ones.
+I am a software developer with a background in project management and small business consultancy. 
 
 ## Skills
 
