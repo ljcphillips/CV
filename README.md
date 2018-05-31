@@ -1,5 +1,5 @@
 # Lorraine Phillips
-[SKILLS](##Skills) | [EDUCATION](##Education) | [EXPERIENCE](##Experience) | [PROJECTS](##Projects)
+[SKILLS](#skills) | [EDUCATION](#education) | [EXPERIENCE](#experience) | [PROJECTS](#projects)
 
 I am a software developer with a background in project management and small business consultancy. 
 
