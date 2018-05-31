@@ -37,7 +37,6 @@ Shortly after starting my role at my last job, I was advised to grow my team and
 - ILM Level 5 Award in Leadership & Management | 2012
 
 ## Experience
- 
 
 ## Projects
 
