@@ -1,7 +1,7 @@
 # Lorraine Phillips
 [SKILLS](#skills) | [EDUCATION](#education) | [EXPERIENCE](#experience) | [PROJECTS](#projects)
 
-I am a software developer with a background in project management and small business consultancy. 
+I am a software developer with a background in project management and small business consultancy. I pride myself on my grit and determination and I love finding solutions to stubborn and complex problems, unsurprisingly, a successful debugging session brings me great joy and is one of my favourite things about programming! 
 
 ## Skills
 
@@ -37,6 +37,16 @@ Shortly after starting my role at my last job, I was advised to grow my team and
 - ILM Level 5 Award in Leadership & Management | 2012
 
 ## Experience
+### Customer Success Manager
+**Geniac(Grant Thornton)** (April 2016 - April 2017)
+### Project Manager
+**Innovate Finance** (January 2016 - March 2016)   
+**Carewatch Care Services Ltd** (July 2015 - December 2015)  
+### Consultant
+**Cheer Trust** (January 2015 - June 2015)    
+**CRU Kafe** (April 2014 - December 2014)    
+### Company Owner
+**Saph Ltd** (July 2007 - March 2014)  
 
 ## Projects
 
