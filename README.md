@@ -1,7 +1,7 @@
 # Lorraine Phillips
-[SKILLS](#skills) | [EDUCATION](#education) | [EXPERIENCE](#experience) | [PROJECTS](#projects)
+[SKILLS](#skills) | [PROJECTS](#projects) | [EXPERIENCE](#experience) | [EDUCATION](#education)
 
-I am a software developer with a background in project management and small business consultancy. I pride myself on my grit and determination and I love finding solutions to stubborn and complex problems, unsurprisingly, a successful debugging session brings me great joy and is one of my favourite things about programming! 
+I am a software developer with a background in project management and small business consultancy. I pride myself on my grit and determination and I love finding solutions to stubborn and complex problems. Unsurprisingly, a successful debugging session brings me great joy and is one of my favourite things about programming! 
 
 ## Skills
 
@@ -16,6 +16,24 @@ One of my favourite projects was transitioning a company from a paper based time
 #### Flexibility
 
 Shortly after starting my role at my last job, I was advised to grow my team and hire new Account Managers as we were expecting an influx of new customers. Only 3 weeks later, due to an unexpected funding fall through, I was advised that we would need to cut back and members of my team along with lots of other staff would need to be made redundant. It was a challenging time for all and morale was low but I was able to keep the remainder of my team motivated and restructure our workload so that the level of service to our customers did not change.
+
+## Projects
+
+| Project       | Summary       | Technologies  | Testing |
+| ------------- |---------------| --------------|---------|
+|([Boris Bikes](https://github.com/ljcphillips/boris_bikes)) | First Week Challenge at Makers academy. |Ruby | RSpec |
+|([Chitter Challenge](https://github.com/ljcphillips/chitter-challenge))|Twitter clone. |Ruby | RSpec, Capybara |
+|([Makers B'n'B](https://github.com/zerga9/makersbnb))| Our first group project at Makers building an AirBNB Clone | Javascript, HTML/CSS, Express, MongoDB| Jasmine, Cypress |
+|([Acebook](https://github.com/blarvin/TEAM-MALN-ACEBOOK))| Group Project building an Acebook Clone using Rails| Ruby, Rails, Docker, Travis | RSpec, Capybara, Travis |
+|([AppCapella](https://github.com/ljcphillips/appcapella))| Group Project building an Acebook Clone using Rails| Ruby, Rails, Docker, Travis | RSpec, Capybara, Travis |
+
+## Experience
+**Customer Success Manager **Geniac(Grant Thornton)** (April 2016 - April 2017)
+**Project Manager **Innovate Finance** (January 2016 - March 2016)   
+**Project Manager **Carewatch Care Services Ltd** (July 2015 - December 2015)  
+**Consultant **Cheer Trust** (January 2015 - June 2015)    
+**Consultant **CRU Kafe** (April 2014 - December 2014)    
+**Company Director **Saph Ltd** (July 2007 - March 2014)  
 
 ## Education
 
@@ -36,23 +54,5 @@ Shortly after starting my role at my last job, I was advised to grow my team and
 - PRINCE 2 Practitioner | PeopleCert | 2015
 - ILM Level 5 Award in Leadership & Management | 2012
 
-## Experience
-### Customer Success Manager
-**Geniac(Grant Thornton)** (April 2016 - April 2017)
-### Project Manager
-**Innovate Finance** (January 2016 - March 2016)   
-**Carewatch Care Services Ltd** (July 2015 - December 2015)  
-### Consultant
-**Cheer Trust** (January 2015 - June 2015)    
-**CRU Kafe** (April 2014 - December 2014)    
-### Company Owner
-**Saph Ltd** (July 2007 - March 2014)  
 
-## Projects
 
-| Project       | Summary       | Technologies  | Testing |
-| ------------- |---------------| --------------|---------|
-| 1. Boris bikes in Ruby ([Github](https://github.com/ljcphillips/boris_bikes)) | First Week Challenge at Makers academy. |Ruby | RSpec |
-| 2. Chitter Challenge ([Github](https://github.com/ljcphillips/chitter-challenge))|Twitter clone. |Ruby | RSpec, Capybara |
-| 3. Makers B'n'B ([Github](https://github.com/zerga9/makersbnb))| Our first group project at Makers building an AirBNB Clone | Javascript, HTML/CSS, Express, MongoDB| Jasmine, Cypress |
-| 4. Acebook ([Github](https://github.com/blarvin/TEAM-MALN-ACEBOOK))| Group Project building an Acebook Clone using Rails| Ruby, Rails, Docker, Travis | RSpec, Capybara, Travis |
