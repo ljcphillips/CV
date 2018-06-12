@@ -21,11 +21,11 @@ Shortly after starting my role at my last job, I was advised to grow my team and
 
 | Project       | Summary       | Technologies  | Testing |
 | ------------- |---------------| --------------|---------|
-|[Boris Bikes](https://github.com/ljcphillips/boris_bikes) | Our First Weekly Challenge at Makers Academy. |Ruby | RSpec |
-|[Chitter Challenge](https://github.com/ljcphillips/chitter-challenge)|A Makers Weekend Challenge - Create a Twitter clone. |Ruby | RSpec, Capybara |
-|[Makers B'n'B](https://github.com/ljcphillips/makersbnb)| Our First Group[4] Project at Makers. We built an AirBNB Clone in a Week using new technology.| Javascript, HTML/CSS, Express, MongoDB| Jasmine, Cypress |
-|[Acebook](https://github.com/ljcphillips/TEAM-MALN-ACEBOOK)| A Two Week Group[4] Project using Rails for the first time| Ruby, Rails, Docker, Travis | RSpec, Capybara, Travis |
-|[AppCapella](https://github.com/ljcphillips/appcapella)| Our Final Group[4] Project building an acapella app. Happy singing!| Ruby, Sinatra, Javascript | RSpec, Capybara |
+|[Boris Bikes](https://github.com/ljcphillips/boris_bikes) | Our first weekly challenge at Makers Academy. |Ruby | RSpec |
+|[Chitter Challenge](https://github.com/ljcphillips/chitter-challenge)|A Makers weekend challenge - Create a Twitter clone. |Ruby | RSpec, Capybara |
+|[Makers B'n'B](https://github.com/ljcphillips/makersbnb)| Our first group project at Makers. We built an AirBNB Clone in one week using new technology.| Javascript, HTML/CSS, Express, MongoDB| Jasmine, Cypress |
+|[Acebook](https://github.com/ljcphillips/TEAM-MALN-ACEBOOK)| A 2 week group project using Rails for the first time.| Ruby, Rails, Docker, Travis | RSpec, Capybara, Travis |
+|[AppCapella](https://github.com/ljcphillips/appcapella)| Our final group project building an acapella app. Happy singing!| Ruby, Sinatra, Javascript | RSpec, Capybara |
 
 ## Experience
 **Customer Success Manager** - Geniac(Grant Thornton) - (April 2016 - April 2017)
