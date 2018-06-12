@@ -28,7 +28,7 @@ Shortly after starting my role at my last job, I was advised to grow my team and
 |[AppCapella](https://github.com/ljcphillips/appcapella)| Our final group project building an acapella app. Happy singing!| Ruby, Sinatra, Javascript | RSpec, Capybara |
 
 ## Experience
-**Customer Success Manager** - *Geniac(Grant Thornton*) - **April 2016 - April 2017**  
+**Geniac/Grant Thornton(April 2016 - April 2017)** - **Customer Success Manager** 
 At this SaaS startup, I was responsible for developing customer relationships and improving retention. I managed the onboarding and account management team and personally oversaw the major client accounts.   
 
 **Project Manager** - *Innovate Finance* - **January 2016 - March 2016**     
