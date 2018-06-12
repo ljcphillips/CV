@@ -21,7 +21,7 @@ Shortly after starting my role at my last job, I was advised to grow my team and
 
 | Project       | Summary       | Technologies  | Testing |
 | ------------- |---------------| --------------|---------|
-|([Boris Bikes](https://github.com/ljcphillips/boris_bikes)) | First Week Challenge at Makers academy. |Ruby | RSpec |
+|[Boris Bikes](https://github.com/ljcphillips/boris_bikes) | First Week Challenge at Makers academy. |Ruby | RSpec |
 |([Chitter Challenge](https://github.com/ljcphillips/chitter-challenge))|Twitter clone. |Ruby | RSpec, Capybara |
 |([Makers B'n'B](https://github.com/zerga9/makersbnb))| Our first group project at Makers building an AirBNB Clone | Javascript, HTML/CSS, Express, MongoDB| Jasmine, Cypress |
 |([Acebook](https://github.com/blarvin/TEAM-MALN-ACEBOOK))| Group Project building an Acebook Clone using Rails| Ruby, Rails, Docker, Travis | RSpec, Capybara, Travis |
