@@ -28,17 +28,22 @@ Shortly after starting my role at my last job, I was advised to grow my team and
 |[AppCapella](https://github.com/ljcphillips/appcapella)| Our final group project building an acapella app. Happy singing!| Ruby, Sinatra, Javascript | RSpec, Capybara |
 
 ## Experience
-**Customer Success Manager** - Geniac(Grant Thornton) - (April 2016 - April 2017)  
+**Customer Success Manager** - Geniac(Grant Thornton) - April 2016 - April 2017  
 At this SaaS startup, I was responsible for developing customer relationships and improving retention. I managed the onboarding and account management team and personally oversaw the major client accounts.   
-**Project Manager** - Innovate Finance - (January 2016 - March 2016)     
-I briefly joined the project management team at this FinTech Membership Organsiation to help prepare for their annual conference. I was responsible for overseeing the ticketing process and communicated regularly with key stakeholders to promote participation in the event.  
-**Project Manager** - Carewatch Care Services Ltd (July 2015 - December 2015)   
+
+**Project Manager** - Innovate Finance - January 2016 - March 2016     
+I briefly joined the project management team at this FinTech Membership Organsiation to help prepare for their annual conference. I was responsible for overseeing the ticketing process and communicated regularly with key stakeholders to promote participation in the event.
+
+**Project Manager** - Carewatch Care Services Ltd - July 2015 - December 2015   
 I managed the implementation of a new Electronic Call Monitoring System at this home care agency. I had to provide weekly reports on the project status to key stakeholders and oversaw the training of staff in using the new system.  
-**Consultant** - Cheer Trust - (January 2015 - June 2015)  
-I planned and managed the data cleansing of this Charity's database and its subsequent migration to a new CRM system.   
-**Consultant** - CRU Kafe - (April 2014 - December 2014)  
-I developed an order management and fulfilment system for this coffee startup. I worked extensively with external stakeholders to get organic certification for the companies products and I consulted on and helped to implement their HR and Finance Procedures.    
-**Company Director** - Saph Ltd - (July 2007 - March 2014)  
+
+**Consultant** - Cheer Trust - January 2015 - June 2015  
+I planned and managed the data cleansing of this Charity's database and its subsequent migration to a new CRM system. 
+
+**Consultant** - CRU Kafe - April 2014 - December 2014  
+I developed an order management and fulfilment system for this coffee startup. I worked extensively with external stakeholders to get organic certification for the companies products and I consulted on and helped to implement their HR and Finance Procedures.  
+
+**Company Director** - Saph Ltd - July 2007 - March 2014   
 I held every single role at my parents home care business and became company director on their retirement. We had 120 staff, 150 clients and I was fortunate to gain really valuable experience in communication, problem-solving and a great overview of what it takes to run a succesful business.  
 
 ## Education
