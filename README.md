@@ -28,7 +28,7 @@ Shortly after starting my role at my last job, I was advised to grow my team and
 |([AppCapella](https://github.com/ljcphillips/appcapella))| Group Project building an Acebook Clone using Rails| Ruby, Rails, Docker, Travis | RSpec, Capybara, Travis |
 
 ## Experience
-**Customer Success Manager **Geniac(Grant Thornton)** (April 2016 - April 2017)
+**Customer Success Manager **Geniac(Grant Thornton)** (April 2016 - April 2017)  
 **Project Manager **Innovate Finance** (January 2016 - March 2016)   
 **Project Manager **Carewatch Care Services Ltd** (July 2015 - December 2015)  
 **Consultant **Cheer Trust** (January 2015 - June 2015)    
